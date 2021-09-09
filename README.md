@@ -1,3 +1,3 @@
 # demo 2
 
-dome text
+some text
